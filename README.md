@@ -38,5 +38,6 @@ This project implements a basic **object detection system** using an **ultrasoni
 |---------|-------------------|
 | SDA     | PD13              |
 | SCL     | PD14              |
+https://github.com/arjun123445678/Object-Distance-detection-using-STM32/blob/main/WhatsApp%20Image%202025-04-23%20at%2008.41.18_1f68e507.jpg
 
 
